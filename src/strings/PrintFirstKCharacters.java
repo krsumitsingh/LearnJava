@@ -1,3 +1,6 @@
+/*
+ * Author - Sumit Kumar Singh
+ */
 package strings;
 
 import java.util.Scanner;
